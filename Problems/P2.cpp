@@ -13,10 +13,7 @@
 
 // Example :
 // Input: Long
-
 // Output: 8
-
-
 
 int dataTypes(string type) {
 	// Write your code here
